@@ -1,0 +1,36 @@
+{
+  "name": "gameball",
+  "version": "0.1.4",
+  "description": "Gameball NodeJS SDK",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "gameball",
+    "nodejs",
+    "node",
+    "sdk"
+  ],
+  "author": "Gameball <omar.alfar@gameball.co>",
+  "license": "MIT",
+  "dependencies": {
+    "https": "^1.0.0",
+    "sha1": "^1.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gameballers/gameball-node.git"
+  },
+  "bin": {
+    "techietime": "index.js"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/gameballers/gameball-node/issues"
+  },
+  "homepage": "https://github.com/gameballers/gameball-node#readme"
+}
